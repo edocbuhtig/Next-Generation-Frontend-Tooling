@@ -1,6 +1,6 @@
 # Next Generation Frontend Tooling
  
- ## Download or Git clone the master Branch, then run below in the project root
+ ## Download /or Git clone, then run below in the project root
 ```
  npm i 
 ```
