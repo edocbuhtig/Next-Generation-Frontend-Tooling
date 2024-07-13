@@ -1,0 +1,14 @@
+{
+  "name": "live_reload",
+  "version": "1.0.0",
+  "description": "Demo to Live/Hot Reload Static HTML Website in your Local Development ENV",
+  "main": "index.js",
+  "scripts": {
+    "dev": "vite"
+  },
+  "author": "Sunil Kumar",
+  "license": "ISC",
+  "devDependencies": {
+    "vite": "^5.3.3"
+  }
+}
